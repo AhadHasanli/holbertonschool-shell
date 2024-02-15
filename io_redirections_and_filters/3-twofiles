@@ -1,2 +1,3 @@
 #!/bin/bash
 paste <(cat /etc/passwd) <(cat /etc/hosts)
+
